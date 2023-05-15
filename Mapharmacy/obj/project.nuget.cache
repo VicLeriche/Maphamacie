@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PGUz2kCEfzhbH2bDGBx0t8o180KD1E5wseok9disL2+eqxPTAF3zpYwCsKeqgfDxwIUZiofZ5rPS93EMerB5Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarce\\source\\repos\\Mapharmacy\\Mapharmacy\\Mapharmacy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarce\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\jarce\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\jarce\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
